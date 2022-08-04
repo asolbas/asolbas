@@ -1,4 +1,8 @@
-### Hi there 👋
+### About me 
+My name is Ana Solbas and I'm a biotechnologist and MSc in Computational Biology student at the Technical University of Madrid (UPM).  
+- 😄 Pronouns: she/her
+- 📫 How to reach me: ana.solbas12@gmail.com
+
 
 <!--
 **asolbas/asolbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
