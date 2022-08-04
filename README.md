@@ -1,6 +1,7 @@
 ### About me 
-My name is Ana Solbas and I'm a biotechnologist and MSc in Computational Biology student at the Technical University of Madrid (UPM).  
+My name is Ana Solbas and I'm a biotechnologist and a Computational Biology MSc student at the Technical University of Madrid (UPM).  
 - 😄 Pronouns: she/her
+- 🔭 I’m currently working on projects related with data science, health and bioinformatics.
 - 📫 How to reach me: ana.solbas12@gmail.com
 
 
